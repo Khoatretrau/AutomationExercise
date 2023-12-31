@@ -7,6 +7,16 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://automationexercise.com/'</initValue>
-      <name>web_url</name>
+      <name>webUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'khoa@gmail.com'</initValue>
+      <name>mainUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'aeHFOx8jV/A='</initValue>
+      <name>mainPassword</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

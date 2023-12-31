@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC16 - Place Order - Login before Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df405f86-9894-4dda-98b8-e64c55f80a95</testCaseGuid>
+</TestCaseEntity>
